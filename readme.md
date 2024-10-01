@@ -16,6 +16,5 @@ Detailed rules (and suggestions) can be found with each "release".
 ----
 
 ## Adoption
-### v1_3_0.0
 This is the most talented Foam Pet.  
-https://github.com/basalt-plateau/foam_pet_docker_images/releases/tag/v1_3_0.0
+[https://github.com/basalt-plateau/foam_pet_docker_images/releases/tag/v2_0_0.0](https://github.com/basalt-plateau/foam_pet_docker_images/releases/tag/v2_0_0.0)
