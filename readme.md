@@ -1,4 +1,9 @@
+# Antiquated
+This directory is antiquated.  
+Docker Images can now be found in the releases at:  
+[https://github.com/basalt-plateau/foam_pet](https://github.com/basalt-plateau/foam_pet)
 
+******
 
 # Foam Pet Docker Images
 This has the docker images necessary to play with a Foam Pet
