@@ -1,5 +1,5 @@
-# Antiquated
-This directory is antiquated.  
+# Vintage
+This directory is vintage.  
 Docker Images can now be found in the releases at:  
 [https://github.com/basalt-plateau/foam_pet](https://github.com/basalt-plateau/foam_pet)
 
